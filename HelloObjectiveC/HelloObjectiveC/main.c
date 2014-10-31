@@ -24,3 +24,5 @@ int main(int argc, const char * argv[])
 
 //http://mark-kirby.co.uk/2008/using-git-and-github-on-os-x/
 //This link helps to set up Git on a new machine
+
+// https is used on mac gives easy access
