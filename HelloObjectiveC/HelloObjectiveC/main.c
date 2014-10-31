@@ -21,3 +21,6 @@ int main(int argc, const char * argv[])
     return 0;
 }
 
+
+//http://mark-kirby.co.uk/2008/using-git-and-github-on-os-x/
+//This link helps to set up Git on a new machine
